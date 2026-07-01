@@ -26,7 +26,8 @@ This Power BI dashboard analyzes online course data to provide insights into lea
 ## Dashboard Preview
 
 <img width="1908" height="1162" alt="Home Page " src="https://github.com/user-attachments/assets/ab007c70-f28a-48b4-9f13-cbbd61a0b8e8" />
-<img width="1908" height="1162" alt="Home Page " src="https://github.com/user-attachments/assets/9ca2a506-96ed-457a-9da5-70c15da0345b" />
+<img width="1912" height="1163" alt="Dashboard " src="https://github.com/user-attachments/assets/aec977d8-f103-4e3d-9089-e7b1fbeb5b8d" />
+
 
 
 ## Author
